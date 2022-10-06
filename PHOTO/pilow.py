@@ -1,1 +1,0 @@
-x=input(" enter any num : ")
