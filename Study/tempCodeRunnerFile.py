@@ -1,1 +1,1 @@
-structlinks
+pyautogui
