@@ -1,1 +1,1 @@
-print("ruaa ali ")
+print()
